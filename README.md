@@ -26,8 +26,8 @@
 ---
 
 ## 📂 프로젝트 구조
-project-root/
+````project-root/
 ├── README.md
 ├── docs/
 │   ├── requirements.md
-│   └── definition.md
+│   └── definition.md````
