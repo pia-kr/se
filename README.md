@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 주요 기능
+##  주요 기능
 - 파일 업로드 및 다운로드
 - 폴더 관리
 - 파일 공유 및 권한 설정
@@ -14,18 +14,13 @@
 
 ---
 
-## 📄 문서
+##  문서
 - [Requirements](docs/requirements.md)
 - [Definition](docs/definition.md)
 
 ---
 
-## 🛠️ 기술 스택
-- (예: Kotlin, Spring Boot, etc — 나중에 채우면 됨)
-
----
-
-## 📂 프로젝트 구조
+##  프로젝트 구조
 ````project-root/
 ├── README.md
 ├── docs/
