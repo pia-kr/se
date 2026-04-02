@@ -14,10 +14,10 @@
 
 ---
 
-## 과제 결과물 위치
-- 프로젝트 정의서: [doc/definition.md](doc/definition.md)
+## 파일 위치
+- 프로젝트 정의서(project1): [doc/definition.md](doc/definition.md)
 - 요구사항 명세서: [doc/requirements.md](doc/requirements.md)
-- 과제 project2: [doc/project2.md](doc/project2.md)
+- 대상 시스템 품질 요소 추정하기(project2): [doc/project2.md](doc/project2.md)
 - 소스코드: `src/`
 
 ---
