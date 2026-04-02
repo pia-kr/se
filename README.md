@@ -16,7 +16,7 @@
 
 ##  문서
 - [Definition](docs/definition.md)
-- [project2](docs/project2.md)
+- [과제 project2](docs/project2.md)
 - [Requirements](docs/requirements.md)
 
 
