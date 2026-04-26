@@ -29,7 +29,8 @@
 project-root/
 ├── README.md
 ├── doc/
-│   ├── definition.md
-│   ├── project2.md
-│   └── requirements.md
+│   ├── project1_definition.md
+│   ├── project2_quality_factors.md
+│   ├── project3_management_plan.md
+│   └── project4_requirements.md
 └── src/
