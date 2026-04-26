@@ -380,6 +380,7 @@ project4_requirements.md
 
 | 수단 | 용도 |
 |------|------|
+| 카카오톡 | 빠른 소통 |
 | GitHub Issues | 작업 관리 |
 | GitHub PR | 코드 리뷰 |
 
