@@ -19,7 +19,7 @@
 - [프로젝트 정의서](doc/project1_definition.md)
 - [대상 시스템 품질 요소 추정하기(과제 1)](doc/project2_quality_factors.md)
 - [프로젝트 관리 계획서(과제 2)](doc/project3_management_plan.md)
-- [요구사항 정의서](doc/project4_requirements.md)
+- [요구사항 정의서(과제3)](doc/project4_requirements.md)
 - 소스코드: `src/`
 
 ---
