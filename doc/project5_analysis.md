@@ -71,7 +71,7 @@
  
 #### 2.1.2 소프트웨어 컨텍스트 다이어그램
  
-![소프트웨어 컨텍스트 다이어그램](se/Image/context_diagram.svg)
+![소프트웨어 컨텍스트 다이어그램](Image/context_diagram.svg)
  
 #### 2.1.3 UseCase Diagram
  
