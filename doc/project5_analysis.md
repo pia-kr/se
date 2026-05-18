@@ -71,11 +71,11 @@
  
 #### 2.1.2 소프트웨어 컨텍스트 다이어그램
  
-![소프트웨어 컨텍스트 다이어그램](Image/context_diagram.svg)
+![소프트웨어 컨텍스트 다이어그램](../Image/context_diagram.svg)
  
 #### 2.1.3 UseCase Diagram
  
-![UseCase 다이어그램](images/usecase_diagram.svg)
+![UseCase 다이어그램](../Image/usecase_diagram.svg)
  
 ---
  
@@ -270,7 +270,7 @@ Use Case Type : Detail, essential
  
 아래 클래스 다이어그램은 Mini Drive 시스템의 주요 도메인 클래스와 클래스 간의 관계를 나타낸다.
  
-![클래스 다이어그램](images/class_diagram.svg)
+![클래스 다이어그램](../Image/class_diagram.svg)
  
 주요 클래스 구성:
 - **사용자** : 시스템을 이용하는 사용자 정보 및 인증 행위
@@ -462,7 +462,7 @@ Use Case Type : Detail, essential
  
 #### 3.3.1 로그인을 한다.
  
-![로그인 시퀀스 다이어그램](images/seq_login.svg)
+![로그인 시퀀스 다이어그램](../Image/seq_login.svg)
  
 | 단계 | 설명 |
 |------|------|
@@ -475,7 +475,7 @@ Use Case Type : Detail, essential
  
 #### 3.3.2 파일을 업로드한다.
  
-![파일 업로드 시퀀스 다이어그램](images/seq_file_upload.svg)
+![파일 업로드 시퀀스 다이어그램](../Image/seq_file_upload.svg)
  
 | 단계 | 설명 |
 |------|------|
@@ -490,7 +490,7 @@ Use Case Type : Detail, essential
  
 #### 3.3.3 파일을 공유한다.
  
-![파일 공유 시퀀스 다이어그램](images/seq_file_share.svg)
+![파일 공유 시퀀스 다이어그램](../Image/seq_file_share.svg)
  
 | 단계 | 설명 |
 |------|------|
