@@ -21,6 +21,7 @@
 - [프로젝트 관리 계획서(과제 2)](doc/project3_management_plan.md)
 - [요구사항 정의서(과제3)](doc/project4_requirements.md)
 - [요구사항 분석서(과제4)](doc/project5_analysis.md)
+- [테스트 보고서(과제5)](doc/project6_sample_test.md)
 - 소스코드: `src/`
 
 ---
@@ -34,5 +35,6 @@ project-root/
 │   ├── project2_quality_factors.md
 │   ├── project3_management_plan.md
 │   ├── project4_requirements.md
-│   └── project5_analysis.md
+│   ├── project5_analysis.md
+│   └── project6_sample_test.md
 └── src/
