@@ -468,7 +468,7 @@ Mini Drive는 조직 내 파일을 중앙에서 관리하고 사용자 간 공�
 
 ### 7.2 참고 문헌
 
-- 소프트웨어공학 강의자료
+- 소프트웨어공학 강의자료(예시 샘플 테스트 결과서)
 - 샘플 테스트 결과서 (스마트 LED 가로등 제어 시스템, 충북대학교)
 - Spring Boot 공식 문서 (https://spring.io/projects/spring-boot)
 - MySQL 공식 문서 (https://dev.mysql.com/doc/)
